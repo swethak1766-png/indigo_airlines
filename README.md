@@ -155,6 +155,8 @@ Route & Flight Analysis
 Flight Operations & Performance
 ![Flight Operations & Performance](06_Screenshots/Flightoperations_and_performance.png)
 
+### 📄 Project Documentation
+You can view the full project documentation here: [Airline Route & Flight Operations Analytics PDF](./05_Documentation/AIRLINE-ROUTE-and-FLIGHT-OPERATIONS-ANALYTICS-INDIGO.pdf)
 
 
 IndiGo_Airline_Analytics/
@@ -163,6 +165,7 @@ IndiGo_Airline_Analytics/
 ├── 02_Cleaned_Dataset/
 ├── 03_MySQL/
 ├── 04_PowerBI/
+├── 05_Documentation/
 └── 06_Screenshots/
 
 ## Author
